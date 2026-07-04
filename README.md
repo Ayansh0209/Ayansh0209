@@ -48,13 +48,7 @@ from algorithm visualizers to AI-powered code mapping.
 
 </div>
 
-## 🏆 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayansh0209&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-
-</div>
 
 ## 🐍 Contribution Snake
 
